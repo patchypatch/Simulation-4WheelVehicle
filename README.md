@@ -1,1 +1,1 @@
-Simulation of 4-Wheel Vehicle (e.g. car) in C++ with mostly C code for the core of the simulation. Simulation is fast thanks to CBlas dependency and since data is logged using memory map. Python is used for processing data and making plots and animations.
+Simulation of 4-Wheel Vehicle (e.g. car) in C++ with mostly C code for the core of the simulation. Simulation is fast thanks to CBlas dependency and since data is logged using memory map. Python is used for processing data and making plots/animations.
